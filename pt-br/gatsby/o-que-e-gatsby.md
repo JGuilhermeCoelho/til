@@ -6,6 +6,13 @@ Usando um conjunto de dados o Gatsby irá fazer o building, que basicamente cons
 
 É ideal para fazer aplicações como Blogs
 
+## Por que usar Gatsby?
+- Boa experiencia para os desenvlvedores (Por usar tecnologias conhecidas)
+- Grande Performace
+- Segurança
+- Ótima Documentação 
+- Grande comunidade (Open Source) 
+
 ## Instalando o Gatsby
 
 Com o `npm` instalado basta rodar </br>
