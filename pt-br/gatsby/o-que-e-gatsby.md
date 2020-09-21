@@ -15,4 +15,5 @@ Com o `npm` instalado basta rodar
 
 ### Links sugeridos
 [Site Gatsby](https://www.gatsbyjs.com/)
+
 [Quick Start - Gatsby](https://www.gatsbyjs.com/docs/quick-start/)
