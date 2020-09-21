@@ -7,8 +7,8 @@ Usando um conjunto de dados o Gatsby irá fazer o building, que basicamente cons
 É ideal para fazer aplicações como Blogs
 
 ## Por que usar Gatsby?
-- Boa experiencia para os desenvlvedores (Por usar tecnologias conhecidas)
-- Grande Performace
+- Boa experiencia para os desenvolvedores (Por usar tecnologias conhecidas)
+- Grande Performance
 - Segurança
 - Ótima Documentação 
 - Grande comunidade (Open Source) 
