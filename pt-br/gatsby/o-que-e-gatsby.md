@@ -8,12 +8,11 @@ Usando um conjunto de dados o Gatsby irá fazer o building, que basicamente cons
 
 ## Instalando o Gatsby
 
-Com o `npm` instalado basta rodar
+Com o `npm` instalado basta rodar </br>
 `npm install -g gatsby-cli`
 
 ---
 
 ### Links sugeridos
-[Site Gatsby](https://www.gatsbyjs.com/)
-
+[Site Gatsby](https://www.gatsbyjs.com/) </br>
 [Quick Start - Gatsby](https://www.gatsbyjs.com/docs/quick-start/)
